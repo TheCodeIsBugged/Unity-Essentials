@@ -1,0 +1,1 @@
+Designed for anyone new to Unity, this guided learning journey is your first step toward creating confidently in the Unity Editor and bringing your visions to life. In this learning Pathway, you’ll design different rooms of a house, learning the essentials of one key skillset as you complete each room.
